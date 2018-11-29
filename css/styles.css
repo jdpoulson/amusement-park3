@@ -1,0 +1,16 @@
+.pirate-ship, .ferris-wheel, .frisbee, .helter-skelter, .ufo, .topple-tower, .octopus, .no-ride {
+  display: none
+}
+
+body {
+  background: green;
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  width: 220px;
+}
